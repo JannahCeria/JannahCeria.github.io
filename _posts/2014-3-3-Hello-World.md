@@ -13,3 +13,4 @@ Pertanyaan di atas bisa dijawab dengan "machine learning". Machine Learning adal
 
 ![_config.yml]({{ site.baseurl }}/images/OIP.jpg)
 
+Sekian post singkat ini. Terima kasih
