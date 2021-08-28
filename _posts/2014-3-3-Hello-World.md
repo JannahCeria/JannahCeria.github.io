@@ -11,6 +11,5 @@ Dalam permainan catur melawan komputer, mengapa komputer bisa menjadi lawan untu
 
 Pertanyaan di atas bisa dijawab dengan "machine learning". Machine Learning adalah metode yang digunakan oleh *pengajar* (mungkin pembaca punya maksud kata yang lebih baik) untuk mengajari komputer tentang suatu hal. Untuk permasalahan bagaimana komputer bisa mengalahkan permainan manusia dikarenakan komputer tersebut akan selalu mempelajari terus menerus. Mungkin prinsipnya bisa dituliskan seperti ini: "Sekarang kalah, lain kali menang"
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml]({{ site.baseurl }}/images/OIP.jpg)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
