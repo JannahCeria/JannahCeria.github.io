@@ -1,7 +1,11 @@
 ---
 layout: post
-title: Ini konten pertamaku!
+title: Machine Learning?
 ---
+
+Karena saya pemula, maka saya akan mengartikan machine learning secara sederhana.
+
+**Apa itu Machine Learning?**
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
